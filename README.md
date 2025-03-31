@@ -1,21 +1,10 @@
 # Cheng Gong (程功)
 
-## Academic Position
-- **2023-Present**: Research Scientist, Lecturer, Department of Earth Sciences, Dartmouth College, Hanover, NH, USA.
-- **2021-2023**: Postdoctoral Researcher, Department of Earth Sciences, Dartmouth College, Hanover, NH, USA.
-- **2020-2021**: Postdoctoral Researcher, Department of Earth System Science, University of California, Irvine, CA, USA.
-
-## Education
-- **2014-2019**: Ph.D. in Computational Science, Uppsala University, Sweden.
-  Thesis: *Numerical Ice Sheet Modeling - Forward and Inverse Problems*. [Dissertation](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-392268)
-- **2012-2014**: Master of Computational Science, Uppsala University, Sweden.
-- **2009-2012**: Master of Biomedical Engineering, Zhejiang University, Hangzhou, China.
-- **2005-2009**: Bachelor of Biomedical Engineering, Zhejiang University, Hangzhou, China.
-- **2005-2007**: Mixed Honors Class, Zhejiang University, Hangzhou, China.
+**Research Scientist**, Department of Earth Sciences, Dartmouth College, Hanover, NH, USA
 
 ## Research Interests
-- Numerical Methods for Ice Sheet Modeling
-- Machine Learning in Glaciology
+- Numerical Methods for Ice Sheet Modeling: [ISSM](https://github.com/ISSMteam/ISSM),  [DJUICE.jl](https://github.com/DJ4Earth/DJUICE.jl)
+- Machine Learning in Glaciology: [PINNICLE](https://github.com/ISSMteam/PINNICLE)
 - Data Assimilation and Inverse Modeling
 - Ice-Ocean and Ice-Bed Interaction
 - Scientific Computing and Numerical Analysis for Linear and Nonlinear PDEs
@@ -30,18 +19,4 @@
 
 (For a complete list of publications, visit my [Google Scholar Profile](https://scholar.google.com/citations?user=iad7UCEAAAAJ&hl=en).)
 
-
-<!--
-**enigne/enigne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 [Download Full CV (PDF)](https://github.com/enigne/enigne/blob/main/CV.pdf)
