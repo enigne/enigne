@@ -19,4 +19,4 @@
 
 (For a complete list of publications, visit my [Google Scholar Profile](https://scholar.google.com/citations?user=iad7UCEAAAAJ&hl=en).)
 
-📄 [Download Full CV (PDF)](https://github.com/enigne/enigne/blob/main/CV.pdf)
+📄 [Download Full CV (PDF)](https://raw.githubusercontent.com/enigne/enigne/refs/heads/main/CV.pdf)
