@@ -13,7 +13,7 @@
 ## Selected Publications
 - **2025**: [A Python library for solving ice sheet modeling problems using Physics Informed Neural Networks, PINNICLE v1.0](https://gmd.copernicus.org/articles/18/5311/2025/). *Geoscientific Model Development*
 - **2024**: [Forward and Inverse Modeling of Ice Sheet Flow Using Physics-Informed Neural Networks: Application to Helheim Glacier, Greenland](https://doi.org/10.1029/2024JH000169). *JGR: Machine Learning and Computation*
-- **2023**: [Helheim Glacier’s Terminus Position Controls Its Seasonal and Inter-Annual Ice Flow Variability](https://doi.org/10.1029/2021GL097085). *Geophysical Research Letters*
+- **2022**: [Helheim Glacier’s Terminus Position Controls Its Seasonal and Inter-Annual Ice Flow Variability](https://doi.org/10.1029/2021GL097085). *Geophysical Research Letters*
 - **2020**: [Parameter sensitivity analysis of dynamic ice sheet models - Numerical computations](https://doi.org/10.5194/tc-14-673-2020). *The Cryosphere*
 - **2018**: [Anisotropic Radial Basis Function Methods for Continental Size Ice Sheet Simulations](https://doi.org/10.1016/j.jcp.2018.06.020). *Journal of Computational Physics*
 - **2017**: [Accurate and Stable Time Stepping in Ice Sheet Modeling](https://doi.org/10.1016/j.jcp.2016.10.060). *Journal of Computational Physics*
