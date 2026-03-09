@@ -1,6 +1,6 @@
 # Cheng Gong (程功)
 
-**Research Scientist**, Department of Earth Sciences, Dartmouth College, Hanover, NH, USA
+**Associate Professor**, College of Surveying and Geo-informatics, Tongji University, Shanghai, China
 
 ## Research Interests
 - Numerical Methods for Ice Sheet Modeling: [ISSM](https://github.com/ISSMteam/ISSM),  [DJUICE.jl](https://github.com/DJ4Earth/DJUICE.jl)
