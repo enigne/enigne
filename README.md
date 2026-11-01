@@ -1,4 +1,4 @@
-# Cheng Gong (程功)
+# Cheng, Gong (程功)
 
 **Associate Professor**, College of Surveying and Geo-informatics, Tongji University, Shanghai, China
 
